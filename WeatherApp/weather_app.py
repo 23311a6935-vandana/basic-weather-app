@@ -11,7 +11,7 @@ from datetime import datetime
 # ==========================================
 
 
-API_KEY = "16d25e453fd324b2b754943959ad8bae"
+API_KEY = "YOUR_API_KEY_HERE"
 
 
 # ==========================================
